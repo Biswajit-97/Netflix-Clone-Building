@@ -1,20 +1,17 @@
-<h2>Netflix Clone</h2><br/>
-React, React router, Styled Components, Firebase <br/>
+# React | Building Netflix Clone
 
-live View: <br/>
+-----
+Integrate with the Firebase and Firebase auth to store the user in the Firebase auth database. Uses Styled Components for all the styling we implement.
+-----
 
-<h4> 
+#Live Preview -  https://netflix-clone-ccfd1.web.app/
 
-https://netflix-clone-ccfd1.web.app/
+should be able to:
+- multiple pages: Home, Browse (which uses Firebase authentication), sign in, and sign up.
+- The sign in will connect to Firebase when a user tries to sign in, and when a user signs up, we will use Firebase auth to store the user in the Firebase auth database.
+- browse accordinly - movie / webseries
 
-</h4><br/>
+Framework Used -  
 
-
-
-or in the project directory, you can run:
-
-### `npm install` 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"></span >
+<span><img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/firebase/firebase-plain.svg" width="40px"></span >
